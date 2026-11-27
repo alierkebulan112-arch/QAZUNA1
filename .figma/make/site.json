@@ -1,0 +1,10 @@
+{
+  "description": "Explore 3D clothing models displayed inside a softly blurred yurt, and switch featured looks in a minimalist, glassmorphic showroom.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
